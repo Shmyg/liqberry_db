@@ -1,0 +1,8 @@
+CREATE	TABLE marketing_campaign
+	(
+	id	NUMBER NOT NULL,
+	cname	VARCHAR2(200) NOT NULL,
+PRIMARY	KEY (id)
+)
+ORGANIZATION INDEX
+/
